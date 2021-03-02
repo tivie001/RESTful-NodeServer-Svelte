@@ -1,7 +1,6 @@
 <script>
     import App from "./App.svelte";
     export let title;
-
 </script>
 <section class="app-nav">
     <nav class="nav-list-items">
@@ -47,4 +46,3 @@
         padding: 0 20px 0 10px;
     }
 </style>
-
